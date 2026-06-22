@@ -1,0 +1,2 @@
+# IoT-Driven-Multi-Agent-AI-for-Precision-Agriculture-on-GCP-with-Vertex-AI-
+This project integrates IoT sensors, machine learning, cloud computing, and autonomous agents to monitor farm conditions. The system analyzes soil moisture, temperature, and humidity data, activates irrigation, pest, weather, and crop agents, generates alerts, and provides real-time visualization through an interactive Streamlit dashboard.
