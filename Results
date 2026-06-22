@@ -1,0 +1,11 @@
+Results:
+
+Confudion Matrix:
+          Predicted 0  Predicted 1
+Actual 0           31            1
+Actual 1            1            7
+
+Model Accuracy: 95.0 %
+
+Stramlit UI dashboard Link
+https://tiny-wrongdoer-antitrust.ngrok-free.dev/
