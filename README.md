@@ -2,15 +2,20 @@
 This project integrates IoT sensors, machine learning, cloud computing, and autonomous agents to monitor farm conditions. The system analyzes soil moisture, temperature, and humidity data, activates irrigation, pest, weather, and crop agents, generates alerts, and provides real-time visualization through an interactive Streamlit dashboard.
 
 Screenshots:
+Sensor Readings:
 <img width="426" height="246" alt="image" src="https://github.com/user-attachments/assets/33250f5e-da52-4d38-b0de-73e4918aa3a3" />
-<img width="871" height="785" alt="image" src="https://github.com/user-attachments/assets/2324bab7-5be2-4176-b7d9-79a05462e890" />
+<img width="871"height="785" alt="image" src="https://github.com/user-attachments/assets/2324bab7-5be2-4176-b7d9-79a05462e890" />
 <img width="1527" height="162" alt="image" src="https://github.com/user-attachments/assets/3f3f428e-cfe2-4d32-9408-79e6058a1d43" />
+
+GCP Console
 <img width="1547" height="747" alt="image" src="https://github.com/user-attachments/assets/90c95e9c-5d9c-4615-9225-bf7eb814459c" />
 <img width="1317" height="902" alt="image" src="https://github.com/user-attachments/assets/4e2e7b67-90e0-4220-82c8-89a792d6d576" />
 <img width="1376" height="786" alt="image" src="https://github.com/user-attachments/assets/96c57423-adf7-4c37-9424-e804b696bdd6" />
 <img width="608" height="207" alt="image" src="https://github.com/user-attachments/assets/e550c0c0-aebb-43a2-a2ac-380c5666fe7a" />
 <img width="891" height="767" alt="image" src="https://github.com/user-attachments/assets/7464bf3d-5bec-4a98-bd9c-74f77ae26176" />
 <img width="1871" height="902" alt="image" src="https://github.com/user-attachments/assets/e8571b59-866c-4d84-a027-18b25b55cbaa" />
+
+Streamlit Dashboard
 <img width="1867" height="802" alt="image" src="https://github.com/user-attachments/assets/6700e1a0-a6ce-471d-b125-4257dae3a27a" />
 <img width="1860" height="792" alt="image" src="https://github.com/user-attachments/assets/63579cff-f12a-43af-b2e5-132975175421" />
 <img width="1857" height="432" alt="image" src="https://github.com/user-attachments/assets/585b8f59-ce2a-4d81-9958-8decf220b1eb" />
