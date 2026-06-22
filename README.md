@@ -15,7 +15,9 @@ GCP Console
 <img width="891" height="767" alt="image" src="https://github.com/user-attachments/assets/7464bf3d-5bec-4a98-bd9c-74f77ae26176" />
 <img width="1871" height="902" alt="image" src="https://github.com/user-attachments/assets/e8571b59-866c-4d84-a027-18b25b55cbaa" />
 
-Streamlit Dashboard
+
+Streamlit UI Dashboard
+
 <img width="1867" height="802" alt="image" src="https://github.com/user-attachments/assets/6700e1a0-a6ce-471d-b125-4257dae3a27a" />
 <img width="1860" height="792" alt="image" src="https://github.com/user-attachments/assets/63579cff-f12a-43af-b2e5-132975175421" />
 <img width="1857" height="432" alt="image" src="https://github.com/user-attachments/assets/585b8f59-ce2a-4d81-9958-8decf220b1eb" />
